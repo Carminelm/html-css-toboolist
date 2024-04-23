@@ -17,3 +17,24 @@ h1{
     height: 15px;
     font-size: 30px;
 }
+
+.box{
+    background-color: lightgray;
+    padding: 50px;
+}
+
+.task{
+    background-color: white;
+    width: 100%;
+    border: 2px white;
+    height: 30px;
+    padding-top: 10px;
+}
+
+#stbotton{
+    background-color: rgb(184, 184, 223);
+    border-radius: 10%;
+}
+#ndbotton{
+    border-radius: 10%;
+}
