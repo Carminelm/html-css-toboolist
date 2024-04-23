@@ -6,11 +6,14 @@
 
 #logo{
     margin: 10px;
+    vertical-align: middle;
+    height: 60px;
 }
 
-#Taboolist {
-    display: inline-block;
-    font-size: 50px;
-    text-align: center;
 
+h1{
+    display: inline-block;
+    text-align: center;
+    height: 15px;
+    font-size: 30px;
 }
